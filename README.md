@@ -6,7 +6,7 @@ Main purpose of `jss:jstree` package — make [jsTree](http://www.jstree.com/) r
 
 # Demo
 
-Online: [jss-jstree.meteor.com](http://jss-jstree.meteor.com/)
+Online: [jss-jstree.meteor.com](http://jss-jstree.meteor.com/)  
 Sources: [github.com/JSSolutions/meteor-jstree-demo](https://github.com/JSSolutions/meteor-jstree-demo)
 
 # Themes
