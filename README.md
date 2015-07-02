@@ -11,5 +11,6 @@ Sources: [github.com/JSSolutions/meteor-jstree-demo](https://github.com/JSSoluti
 
 # Themes
 
+- [Default](https://github.com/JSSolutions/meteor-jstree)
 - [Proton](https://github.com/JSSolutions/meteor-jstree-proton-theme)
 - [Dark](https://github.com/JSSolutions/meteor-jstree-dark-theme)
