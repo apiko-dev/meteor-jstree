@@ -1,8 +1,9 @@
 Package.describe({
   name: 'jss:jstree',
   summary: 'jQuery tree plugin for MeteorJS.',
-  version: '3.1.1',
-  git: 'https://github.com/JSSolutions/meteor-jstree'
+  version: '3.1.1_1',
+  git: 'https://github.com/JSSolutions/meteor-jstree',
+  readme: 'README.md'
 });
 
 Package.onUse(function(api) {
