@@ -9,7 +9,7 @@ Main purpose of `jss:jstree` package — make [jsTree](http://www.jstree.com/) r
 Online: [jss-jstree.meteor.com](http://jss-jstree.meteor.com/)  
 Sources: [github.com/JSSolutions/meteor-jstree-demo](https://github.com/JSSolutions/meteor-jstree-demo)
 
-Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](https://jssolutionsdev.com) - [Professional Meteor Development Company](https://jssolutionsdev.com)
+Made by [![Professional Meteor Development Studio](http://s30.postimg.org/jfno1g71p/jss_xs.png)](http://jssolutionsdev.com) - [Professional Meteor Development Company](http://jssolutionsdev.com)
 
 # Themes
 
